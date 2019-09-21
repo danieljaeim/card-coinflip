@@ -1,0 +1,32 @@
+.prediction-message {
+
+  font-size: 50px; 
+  text-align: center; 
+}
+
+.next-card {
+  position: relative; 
+  width: 100px; 
+  height: 100px; 
+}
+
+button {
+  width: 100%; 
+  height: 100%; 
+}
+
+.higher {
+  position: relative; 
+  display: inline-block; 
+  width: 200px; 
+  height: 100px; 
+}
+
+.lower {
+
+  position: relative; 
+  display: inline-block; 
+  width: 200px; 
+  height: 100px;  
+
+}
